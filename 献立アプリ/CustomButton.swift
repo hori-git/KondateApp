@@ -65,8 +65,4 @@ extension CustomButton {
             self.alpha = 1
         },completion: nil)
     }
-
-    //Gitテストコメント
-    //Gitテストコマンド2
-    //コンフリクト用コメント
 }
