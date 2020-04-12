@@ -68,5 +68,5 @@ extension CustomButton {
 
     //Gitテストコメント
     //Gitテストコマンド2
-    //コンフリクト用２
+    //コンフリクト用コメント
 }
